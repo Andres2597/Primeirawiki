@@ -36,7 +36,7 @@ este ficheiro é README
 | Célula   | Célula    |
 | Célula   | Célula    |
 
-```python
+```
 Seu código Python aqui
 def hello_world():
 print("Hello, World!")
