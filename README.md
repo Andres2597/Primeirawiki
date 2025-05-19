@@ -37,6 +37,10 @@ este ficheiro é README
 
 ``interpretação do texto``
 
+referência_
+
+_`Destino de inteiro embutido`
+
 | Tabela   | Cabeçalho |
 |----------|-----------|
 | Célula   | Célula    |
