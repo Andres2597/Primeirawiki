@@ -65,6 +65,6 @@ print(suma)
 ![hola mundo](https://www.leidainformatica.com/wp-content/uploads/2020/05/205-scaled.jpg)
 
 <https://www.leidainformatica.com/decreto-que-atualiza-a-regulamentacao-da-lei-de-informatica-e-divulgado/>
-<fake@example.com>
+
 
 [Google](https://google.com)
