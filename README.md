@@ -41,10 +41,15 @@ referencia_
 
 _`Destino de inteiro embutido`
 
-| Tabela   | Cabeçalho |
+| Tabela   | Cabeçalho |  
 |----------|-----------|
 | Célula   | Célula    |
 | Célula   | Célula    |
+
+| :Tabela:   | :Cabeçalho: | central 
+|----------|-----------|
+| :Célula   | :Célula    |  esqueda
+| Célula:   | Célula:    |  direita
 
 ```python
 Seu código Python aqui
