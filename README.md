@@ -42,7 +42,7 @@ referencia_
 _`Destino de inteiro embutido`
 
 | Tabela   | Cabeçalho |  
-|----------|-----------|
+|:----------|-----------|
 | Célula   | Célula    |
 | Célula   | Célula    |
 
