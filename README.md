@@ -29,7 +29,7 @@ este ficheiro é README
    1. este es
    2. de forma que
    3. na hora boa:
-      1.hola
+      1. hola
 
 [Link para o Google](https://www.google.com)
 
