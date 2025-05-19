@@ -17,6 +17,8 @@ este ficheiro é README
 
 ***Negrito e Italico***
 
+~~nome~~
+
 - Lista
 - Com
 - Marcadores
