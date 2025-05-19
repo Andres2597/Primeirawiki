@@ -67,4 +67,4 @@ print(suma)
 <https://www.leidainformatica.com/decreto-que-atualiza-a-regulamentacao-da-lei-de-informatica-e-divulgado/>
 <fake@example.com>
 
-[Google] (https://google.com)
+[Google](https://google.com)
