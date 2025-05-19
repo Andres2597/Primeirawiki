@@ -42,7 +42,7 @@ referencia_
 _`Destino de inteiro embutido`
 
 | Tabela   | Cabeçalho |  
-|:----------|-----------|
+|----------|-----------:|
 | Célula   | Célula    |
 | Célula   | Célula    |
 
@@ -56,3 +56,13 @@ Seu código Python aqui
 def hello_world():
 print("Hello, World!")
 ```
+```python
+numero= 10
+numer0_=20
+suma= numero + numero_
+print(suma)
+```
+![hola mundo](https://www.leidainformatica.com/wp-content/uploads/2020/05/205-scaled.jpg)
+
+<https://www.leidainformatica.com/decreto-que-atualiza-a-regulamentacao-da-lei-de-informatica-e-divulgado/>
+<fake@example.com>
