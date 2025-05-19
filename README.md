@@ -25,7 +25,11 @@ este ficheiro é README
 
 1. Lista
 2. Com
-3. Números
+3. Números:
+   1. este es
+   2. de forma que
+   3. na hora boa:
+      1.hola
 
 [Link para o Google](https://www.google.com)
 
