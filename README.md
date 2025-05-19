@@ -81,3 +81,28 @@ Autores:
 | João Silva      | Universidade de Lisboa        | joao.silva@ul.pt |
 | Maria Oliveira  | Instituto Politécnico do Porto | maria.oliveira@ipp.pt |
 | Carlos Pereira  | Empresa XYZ                    | carlos.pereira@xyz.com |
+
+### Alertas ###
+
+[!Note] **Nota Importante:**
+> Esta seção contém informações cruciais para entender o funcionamento do sistema. Leia com atenção.
+
+[!Warning] **Aviso:**
+> Modificar as configurações abaixo pode causar instabilidade no sistema. Prossiga com cautela e apenas se tiver certeza do que está fazendo.
+
+[!Danger] **PERIGO!**
+> A manipulação incorreta deste arquivo pode levar à perda de dados. **Faça um backup antes de qualquer alteração.**
+
+[!Info] **Informação Adicional:**
+> Para mais detalhes sobre este tópico, consulte a seção "Documentação Avançada".
+
+A palavra <code style="color: yellow"> **sol**</code> pode aparecer em amarelo se o renderizador suportar HTML inline.
+
+É importante notar a palavra <code style="color: red"> ***perigo*** </code> nesta frase.
+
+```diff
+- Texto em vermelho
++ Texto em verde
+! Texto em laranja
+# Texto em cinza
+@@ Texto em roxo (e negrito) @@
