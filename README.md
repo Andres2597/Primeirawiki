@@ -68,3 +68,16 @@ print(suma)
 
 
 [Google](https://google.com)
+
+Este <sub> esta</sub> en
+
+Autores:
+- João Silva
+- Maria Oliveira
+- Carlos Pereira
+
+| Autor           | Afiliação                      | Contato        |
+|-----------------|---------------------------------|:----------------:|
+| João Silva      | Universidade de Lisboa        | joao.silva@ul.pt |
+| Maria Oliveira  | Instituto Politécnico do Porto | maria.oliveira@ipp.pt |
+| Carlos Pereira  | Empresa XYZ                    | carlos.pereira@xyz.com |
