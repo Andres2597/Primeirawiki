@@ -37,7 +37,7 @@ este ficheiro é README
 
 ``interpretação do texto``
 
-referência_
+referencia_
 
 _`Destino de inteiro embutido`
 
