@@ -15,6 +15,8 @@ este ficheiro é README
 
 *Itálico* ou _Itálico_
 
+***Negrito e Italico***
+
 - Lista
 - Com
 - Marcadores
