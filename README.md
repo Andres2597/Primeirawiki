@@ -35,6 +35,8 @@ este ficheiro é README
 
 `Código em linha`
 
+``interpretação do texto``
+
 | Tabela   | Cabeçalho |
 |----------|-----------|
 | Célula   | Célula    |
