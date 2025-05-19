@@ -84,16 +84,16 @@ Autores:
 
 ### Alertas ###
 
->[!NOTE] **Nota Importante:**
+>[!NOTE] 
 > Esta seção contém informações cruciais para entender o funcionamento do sistema. Leia com atenção.
 
->[!WARNING] **Aviso:**
+>[!WARNING]
 > Modificar as configurações abaixo pode causar instabilidade no sistema. Prossiga com cautela e apenas se tiver certeza do que está fazendo.
 
->[!DANGER] **PERIGO!**
+>[!DANGER]
 > A manipulação incorreta deste arquivo pode levar à perda de dados. **Faça um backup antes de qualquer alteração.**
 
->[!INFO] **Informação Adicional:**
+>[!INFO]
 > Para mais detalhes sobre este tópico, consulte a seção "Documentação Avançada".
 
 A palavra <code style="color: yellow"> **sol**</code> pode aparecer em amarelo se o renderizador suportar HTML inline.
