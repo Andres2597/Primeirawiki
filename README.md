@@ -46,10 +46,10 @@ _`Destino de inteiro embutido`
 | Célula   | Célula    |
 | Célula   | Célula    |
 
-| :Tabela:   | :Cabeçalho: | central 
+| :Tabela:   | :Cabeçalho: |  
 |----------|-----------|
-| :Célula   | :Célula    |  esqueda
-| Célula:   | Célula:    |  direita
+| :Célula   | :Célula    | 
+| Célula:   | Célula:    |  
 
 ```python
 Seu código Python aqui
